@@ -10,7 +10,6 @@ INSTALL :
 Use the 'Git' support for pip as described here: 
 
 http://www.pip-installer.org/en/latest/requirements.html#git
-
 1)Add this to your requirements.txt
 git+git://github.com:gurteshwar/freeswitch-esl-python.git 
 
